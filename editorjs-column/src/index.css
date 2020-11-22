@@ -1,0 +1,44 @@
+.ce-column-start {
+  line-height: 1.6em;
+  width: 100%;
+  text-align: center;
+}
+
+.ce-column-start:before {
+  display: inline-block;
+  content: "*** COLUMN START ***";
+  font-size: 30px;
+  line-height: 65px;
+  height: 30px;
+  letter-spacing: 0.2em;
+}
+
+.ce-column-split {
+  line-height: 1.6em;
+  width: 100%;
+  text-align: center;
+}
+
+.ce-column-split:before {
+  display: inline-block;
+  content: "*** COLUMN SPLIT ***";
+  font-size: 30px;
+  line-height: 65px;
+  height: 30px;
+  letter-spacing: 0.2em;
+}
+
+.ce-column-end {
+  line-height: 1.6em;
+  width: 100%;
+  text-align: center;
+}
+
+.ce-column-end:before {
+  display: inline-block;
+  content: "*** COLUMN END ***";
+  font-size: 30px;
+  line-height: 65px;
+  height: 30px;
+  letter-spacing: 0.2em;
+}

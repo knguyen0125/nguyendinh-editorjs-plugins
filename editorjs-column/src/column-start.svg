@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="column-split.svg"
+   id="svg132"
+   width="1em"
+   height="1em"
+   pId="11055"
+   version="1.1"
+   viewBox="0 0 1024 1024"
+   t="1569683545621"
+   stroke-width="0"
+   fill="currentColor"
+   stroke="currentColor">
+  <metadata
+     id="metadata136">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg132"
+     inkscape:window-maximized="0"
+     inkscape:window-y="16"
+     inkscape:window-x="154"
+     inkscape:cy="512"
+     inkscape:cx="294.14064"
+     inkscape:zoom="0.81933594"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     id="namedview134"
+     inkscape:window-height="1471"
+     inkscape:window-width="2616"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <sodipodi:guide
+       id="guide138"
+       orientation="1,0"
+       position="81.77354,549.22527" />
+    <sodipodi:guide
+       id="guide140"
+       orientation="1,0"
+       position="939.78546,482.09774" />
+  </sodipodi:namedview>
+  <defs
+     id="defs128" />
+  <text
+     transform="scale(1.0289915,0.97182532)"
+     id="text144"
+     y="781.54913"
+     x="31.041632"
+     style="font-style:normal;font-weight:normal;font-size:699.714px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
+     xml:space="preserve"><tspan
+       style="stroke-width:0"
+       y="781.54913"
+       x="31.041632"
+       id="tspan142"
+       sodipodi:role="line">CS</tspan></text>
+</svg>
